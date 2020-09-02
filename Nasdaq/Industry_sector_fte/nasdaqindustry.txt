@@ -1,0 +1,2830 @@
+SHLM N/A
+ACMR Specialty Retail, Other
+ADAM N/A
+AAII N/A
+AAON General Building Materials
+ABAX N/A
+AANB N/A
+ABBC N/A
+ABMD Medical Appliances & Equipment
+AXAS Independent Oil & Gas
+ABII N/A
+ACTG Business Services
+ACAD Biotechnology
+ACCL N/A
+CIDM Entertainment - Diversified
+ANCX N/A
+AUSA N/A
+ARAY Medical Appliances & Equipment
+ACGY N/A
+ACIW Technical & System Software
+APKT N/A
+ACOR Biotechnology
+ACTL Marketing Services
+ACPW N/A
+ACTI N/A
+ATVI Multimedia & Graphics Software
+ACTU N/A
+ACUR Drug Delivery
+ACXM N/A
+ADES Pollution & Treatment Controls
+ADGF N/A
+ADPT Biotechnology
+ADCT Communication Equipment
+AEY Electronics Wholesale
+ADBE Application Software
+ADLR N/A
+ADTN Communication Equipment
+AATI N/A
+ABAT N/A
+AEIS Diversified Electronics
+ADVNB N/A
+ADVNA N/A
+AVCA N/A
+AEHR Semiconductor Equipment & Materials
+AEPI N/A
+AVAV Aerospace/Defense Products & Services
+AEZS Biotechnology
+AFFM N/A
+AFFY Biotechnology
+AFFX N/A
+ATAC N/A
+FEED N/A
+AGYS Application Software
+AIRM N/A
+AIRT Air Delivery & Freight Services
+ATSG Air Delivery & Freight Services
+AMCN N/A
+AIRN N/A
+AIRV N/A
+AIXG N/A
+AKAM Internet Information Providers
+AKNS N/A
+AKRX N/A
+TRMD
+ALDN N/A
+ALSK Telecom Services - Domestic
+AMRI N/A
+ALDA
+ALXN Biotechnology
+ALXA N/A
+ACEL
+ALCO Farm Products
+ALGN Medical Appliances & Equipment
+ALKS Drug Delivery
+ALGT Regional Airlines
+ABVA N/A
+AFOP N/A
+ALNC N/A
+AHGP N/A
+ARLP Industrial Metals & Minerals
+AHPI Medical Appliances & Equipment
+AHCI N/A
+AMOT Industrial Electrical Equipment
+ALLI N/A
+ALTH N/A
+ALLT Communication Equipment
+ALOY N/A
+MDRX Application Software
+AFAM N/A
+ALNY Biotechnology
+ATEC Medical Instruments & Supplies
+ALTI N/A
+ALTR Semiconductor - Specialized
+AIMC Industrial Electrical Equipment
+ALTU N/A
+ALVR Wireless Communications
+AMAG Diagnostic Substances
+AMRN Drug Manufacturers - Other
+AMZN Catalog & Mail Order Houses
+EPAX N/A
+AMIE N/A
+AMFI N/A
+AMED Home Health Care
+UHAL Rental & Leasing Services
+ATAX Mortgage Investment
+AMOV
+ASGR N/A
+ABNJ N/A
+AGNC REIT - Residential
+ACAS N/A
+AMCE N/A
+ACBA N/A
+ACLI N/A
+ADPI N/A
+ECOL Waste Management
+AETI N/A
+AMIC N/A
+AMIN Business Services
+AIPC N/A
+AMAC N/A
+AMMD N/A
+AMNB Regional - Mid-Atlantic Banks
+ANAT Insurance�Diversified
+APFC N/A
+ACAP N/A
+AMPH Drug Manufacturers�Specialty & Generic
+APEI Education & Training Services
+ARII N/A
+AMRB Regional - Pacific Banks
+ASEI N/A
+AMSWA Application Software
+AMSC Industrial Electrical Equipment
+ATCO
+AMWD Home Furnishings & Fixtures
+CRMT Auto Dealerships
+ARGN N/A
+ABCB Regional - Mid-Atlantic Banks
+AMSF Property & Casualty Insurance
+ASRV Regional - Northeast Banks
+ASRVP N/A
+ASCA N/A
+AMTC N/A
+AMTY Rubber & Plastics
+ATLO Regional - Northeast Banks
+AMGN Biotechnology
+AMCS N/A
+FOLD Biotechnology
+AMKR Semiconductor - Integrated Circuits
+AMPL N/A
+AMSG N/A
+ASYS Semiconductor Equipment & Materials
+AFSI N/A
+AMLN N/A
+ANAD N/A
+ANDS N/A
+ALOG N/A
+ANLY N/A
+ANEN N/A
+ABCW N/A
+ANGN N/A
+ANGO Medical Instruments & Supplies
+ANPI N/A
+ANIK Biotechnology
+AHII Cigarettes
+ANNB N/A
+ANSW N/A
+ANSS Application Software
+AGEN Biotechnology
+APAC N/A
+APOG General Building Materials
+APOL N/A
+AAPL Electronic Equipment
+ARCI N/A
+AERG Scientific & Technical Instruments
+AMAT Semiconductor Equipment & Materials
+AMCC N/A
+APSG N/A
+AREX N/A
+ARSD N/A
+ARBX N/A
+ARCW N/A
+ABIO Biotechnology
+ACGL Property & Casualty Insurance
+ACAT N/A
+RDEA N/A
+ARDNA N/A
+ARNA Biotechnology
+STST N/A
+AGII N/A
+ARIA N/A
+ARBA N/A
+RAMS N/A
+ARKR Restaurants
+ABFS N/A
+ARMH N/A
+ARTX N/A
+ARQL Biotechnology
+ARRY N/A
+ARRS N/A
+AROW Regional - Northeast Banks
+ARWR Biotechnology
+ARTG N/A
+ARTNA N/A
+ARTW Farm & Construction Machinery
+ASCMA N/A
+ASTIZ N/A
+ASIA N/A
+ASMI N/A
+ASML
+ASPM N/A
+APPY N/A
+AACC N/A
+ASFI Business Services
+ATEA N/A
+ASTE Farm & Construction Machinery
+ALOT Computer Peripherals
+ATRO Aerospace/Defense Products & Services
+ATAI N/A
+ATHN N/A
+ATHR N/A
+ATHX Biotechnology
+AAME Life Insurance
+ATBC N/A
+ACFC N/A
+ASFN N/A
+ATNI Telecom Services - Domestic
+AAWW Air Services, Other
+ATLS Independent Oil & Gas
+ATML N/A
+ATMI N/A
+ATPG N/A
+ATRC Medical Instruments & Supplies
+ATRI Medical Instruments & Supplies
+ATSI N/A
+AUBN Regional - Southeast Banks
+AUDC Communication Equipment
+VOXX Auto Parts
+AUTH N/A
+ABTL N/A
+ADSK Technical & System Software
+ADP Business Software & Services
+AVRX N/A
+AVNX N/A
+AVTR Residential Construction
+AVII N/A
+AVID Multimedia & Graphics Software
+AVGN N/A
+AVZA N/A
+AVCT
+AWRE Application Software
+ACLS Semiconductor Equipment & Materials
+AXYS N/A
+AXTI N/A
+BOSC Communication Equipment
+BIDU Internet Information Providers
+BKRS N/A
+BCPC Chemicals - Major Diversified
+BWINA N/A
+BWINB N/A
+BLDPD N/A
+BLDP N/A
+BANF N/A
+BARI N/A
+BOFL N/A
+BTFG N/A
+BKMU N/A
+BOCH Banks�Regional
+GRAN N/A
+BMRC Regional - Pacific Banks
+BKSC Regional - Mid-Atlantic Banks
+BOVA N/A
+OZRK N/A
+BBXT N/A
+BFIN Savings & Loans
+RATE N/A
+BKUNA N/A
+BANR N/A
+BARE N/A
+BBSI Staffing & Outsourcing Services
+BWTR N/A
+BSET Home Furnishings & Fixtures
+MSDXP N/A
+BCBP Banks�Regional
+BCSB N/A
+BEAV N/A
+BFNB N/A
+BFED N/A
+BCON N/A
+BECN General Building Materials
+BBGI Broadcasting - Radio
+BEBE Apparel Stores
+BBBY Home Furnishing Stores
+BELFA
+BELFB Diversified Electronics
+BNCL N/A
+BNHNA N/A
+BNHN N/A
+BFBC N/A
+BERK Regional - Northeast Banks
+BHLB Banks�Regional
+BGCP N/A
+BIDZ N/A
+BGFV Sporting Goods Stores
+BBND N/A
+BITI N/A
+BRLI Medical Laboratories & Research
+BASI Research Services
+BCRX Biotechnology
+BIOD N/A
+BDSI Biotechnology
+BFRM N/A
+BIOF N/A
+BIIB Biotechnology
+BLTI N/A
+BMRN Biotechnology
+BMTI N/A
+BPUR N/A
+BPAX N/A
+BIOS N/A
+BSMD N/A
+BDMS N/A
+BITS N/A
+BJRI Restaurants
+BBOX N/A
+BLKB N/A
+BBBB N/A
+BKCC Asset Management
+BCSI N/A
+BDCO Independent Oil & Gas
+NILE N/A
+BFLY N/A
+BJGP N/A
+BNCN N/A
+BOBE N/A
+BOFI N/A
+BOKF Regional - Southwest  Banks
+BOLT N/A
+BNSO Industrial Electrical Equipment
+BKHM N/A
+BORL N/A
+BPFH Regional - Northeast Banks
+EPAY Business Software & Services
+BBEP N/A
+BDGE Regional - Northeast Banks
+BLSW N/A
+BRID Meat Products
+BEXP N/A
+CELL N/A
+BKBK N/A
+BPSG N/A
+BVSN N/A
+BYFC Savings & Loans
+BWEN N/A
+BRCD N/A
+BRNC N/A
+BRKL Savings & Loans
+BFSB N/A
+BRKS Semiconductor Equipment & Materials
+BRKR Medical Laboratories & Research
+BMTC Regional - Mid-Atlantic Banks
+BSQR Application Software
+BUCY N/A
+BWLD N/A
+BLDR General Building Materials
+CHRW Air Delivery & Freight Services
+CA N/A
+CCMP Semiconductor - Integrated Circuits
+CDNS Application Software
+CADE Banks�Regional
+CADX N/A
+CDZI Water Utilities
+CALM Food - Major Diversified
+CLMS N/A
+CAMP Wireless Communications
+CVGW Farm Products
+CALC N/A
+CFNB Regional - Pacific Banks
+CAMD N/A
+CPKI N/A
+CALP N/A
+CALD N/A
+CALL N/A
+CLMT N/A
+CAFI Savings & Loans
+CAC Banks�Regional
+CAMT Semiconductor Equipment & Materials
+CSIQ Semiconductor - Specialized
+CLZR N/A
+CPHC N/A
+CAPE N/A
+CPLA N/A
+CBKN N/A
+CCBG Regional - Mid-Atlantic Banks
+CCPCN N/A
+CPLP Marine Shipping
+CSWC Asset Management
+CFFN N/A
+CPST Industrial Electrical Equipment
+CSAR N/A
+CSCX N/A
+CRDC N/A
+CFNL N/A
+CDIC N/A
+BEAT Medical Laboratories & Research
+CSII Medical Appliances & Equipment
+CATM Business Services
+CECO Historical Figures Reimagined As Modern Day People
+CBOU N/A
+CKEC N/A
+CLBH N/A
+CART N/A
+CRZO N/A
+CRRB N/A
+TAST Restaurants
+CARV Savings & Loans
+CASM N/A
+CACB N/A
+CASB N/A
+CSCD N/A
+CWST Waste Management
+CASY Grocery Stores
+CASS Business Services
+CPHL N/A
+CMRG N/A
+CHSI N/A
+CPRX N/A
+CATT N/A
+CATY Regional - Pacific Banks
+CVCO Residential Construction
+CAVM N/A
+CBEY N/A
+CBRL Restaurants
+CHINA N/A
+CFK N/A
+CECE Pollution & Treatment Controls
+CLDN N/A
+CRA N/A
+CELG N/A
+CEGE N/A
+CTIC Biotechnology
+CLDX N/A
+CLSN Biotechnology
+CYCL N/A
+CNBC N/A
+CLFC N/A
+CSFL N/A
+CEBK N/A
+CEDC N/A
+CETV Broadcasting - TV
+CFBK Savings & Loans
+CENTA
+CENT Food - Major Diversified
+CJBK N/A
+CVCY Regional - Pacific Banks
+CVBK N/A
+TRUE Internet Content & Information
+CENX Aluminum
+CNBKA Regional - Northeast Banks
+CNTY Resorts & Casinos
+CEPH N/A
+CPHD N/A
+CRDN N/A
+CRNT Communication Equipment
+CERN Healthcare Information Services
+CERS Biotechnology
+CEVA Semiconductor - Specialized
+CFFI Regional - Mid-Atlantic Banks
+CITZ Regional - Midwest Banks
+CHMP Business Equipment
+CYOU N/A
+CACAU N/A
+CACA
+CTHR Jewelry Stores
+SCHW Capital Markets
+CHRS Biotechnology
+GTLS Metal Fabrication
+CHTR CATV Systems
+CHRTR N/A
+CHRT N/A
+CHTT N/A
+CHKP N/A
+CHTP N/A
+CXSP N/A
+CHFC N/A
+CHKE N/A
+CHEV N/A
+CBNK Savings & Loans
+CAEI N/A
+CAAS Auto Parts
+CBAK N/A
+CABL N/A
+CABLU N/A
+CDS N/A
+CDII N/A
+JRJC N/A
+CFSG N/A
+GRRF N/A
+CPBY N/A
+CIIC N/A
+CHIO N/A
+CMED N/A
+CHNR Industrial Metals & Minerals
+CPSL N/A
+CSKI N/A
+CSUN N/A
+CNTF N/A
+CTDC N/A
+CTFO N/A
+CHBT N/A
+CASTU N/A
+CEDU N/A
+CHDX N/A
+IMOS Semiconductor Equipment & Materials
+CHRD N/A
+CHDN Gaming Activities
+CIEN Communication Equipment
+CINF Property & Casualty Insurance
+CTAS Business Services
+CRUS N/A
+CSCO Networking & Communication Devices
+CTRN Apparel Stores
+PLJC N/A
+CZNC Regional - Mid-Atlantic Banks
+CZWI Regional - Midwest Banks
+CZFC N/A
+CTZN N/A
+CIZN N/A
+CRBC N/A
+CSBC N/A
+CTXS Business Software & Services
+CTBK
+CHCO Regional - Mid-Atlantic Banks
+CTEL N/A
+CKXE N/A
+CLRT N/A
+CWEI N/A
+CLNE Gas Utilities
+CLFD Communication Equipment
+CLRO N/A
+CLWR N/A
+CLWRD N/A
+CBLI Biotechnology
+CKSW N/A
+CSBK N/A
+CLDA N/A
+CME Investment Brokerage - National
+CMSB N/A
+CCNE Banks�Regional
+CISG N/A
+COBZ N/A
+COBR N/A
+COKE Beverages - Soft Drinks
+CVLY Regional - Northeast Banks
+CCOI Diversified Communication Services
+CGNX Scientific & Technical Instruments
+CTSH Business Software & Services
+COHR Scientific & Technical Instruments
+COHU Semiconductor Equipment & Materials
+CSTR Specialty Retail, Other
+CWTR N/A
+CCIX N/A
+CLCT Business Services
+COBK N/A
+CBAN N/A
+COLB Savings & Loans
+COLM Textile - Apparel Clothing
+CMCO Farm & Construction Machinery
+CMRO N/A
+CBMX N/A
+CRXX N/A
+CMCSK N/A
+CMCSA Entertainment - Diversified
+CCBP N/A
+CBSH Regional - Midwest Banks
+CMFB N/A
+CNAF Regional - Midwest Banks
+CVGI N/A
+CWBS N/A
+CTCH N/A
+JCS N/A
+CBON N/A
+CBNJ N/A
+CBIN N/A
+CPBK N/A
+CCBD N/A
+CFFC N/A
+CPBC N/A
+CSHB N/A
+CTBI Regional - Southeast Banks
+CWBC Regional - Pacific Banks
+CVLT N/A
+CODI Conglomerates
+CCRT N/A
+CGEN Biotechnology
+CPSI Healthcare Information Services
+CTGX N/A
+CPWR Application Software
+SCOR Business Services
+CHCI Residential Construction
+CITP N/A
+COGO N/A
+CMTL Communication Equipment
+COMV N/A
+CPTS N/A
+CNQR N/A
+CNXT N/A
+CNMD Medical Appliances & Equipment
+CTWS N/A
+CONN Electronics Stores
+CNLG N/A
+CNLGD N/A
+CNSL Telecom Services - Domestic
+CWCO Water Utilities
+CTCT N/A
+CNST Packaging & Containers
+CPSS Credit Services
+CNVR N/A
+COINZ N/A
+COOP
+CPNO N/A
+CPRT Auto Dealerships
+CNIC N/A
+CORT N/A
+CORE Food Wholesale
+CREL N/A
+CRGI N/A
+COCO N/A
+CRTX N/A
+CRVL Insurance Brokers
+COSI N/A
+CPWM N/A
+CSGP Property Management
+COST Discount, Variety Stores
+CGRB N/A
+CRRC N/A
+CVTI N/A
+COWN Investment Brokerage - National
+CWLZ N/A
+CPEX N/A
+CPII N/A
+CRAI Management Services
+CRAY N/A
+CACC Credit Services
+CRED N/A
+CREE Semiconductor Equipment & Materials
+CSNT N/A
+CRFN N/A
+CRESY
+CRMH N/A
+CROX N/A
+ATX N/A
+CCRN Staffing & Outsourcing Services
+XTXI N/A
+XTEX N/A
+CRWS Textile - Apparel Clothing
+CRWN N/A
+CRXL N/A
+CRYP N/A
+CSGS Business Software & Services
+CSPI Information Technology Services
+CTCM N/A
+CTIB Rubber & Plastics
+CTRP N/A
+CMLS Broadcasting
+CRGN N/A
+CRIS Biotechnology
+CUTR Medical Appliances & Equipment
+CVTX N/A
+CVBF Regional - Pacific Banks
+CVV Specialty Industrial Machinery
+CYAN Biotechnology
+CYBX N/A
+CYBE Scientific & Technical Instruments
+CYBS N/A
+CYBI N/A
+CYCC Biotechnology
+CYMI N/A
+CYNO N/A
+CYPB N/A
+CYTK Biotechnology
+CYTX N/A
+CYTR Biotechnology
+DECC N/A
+DAIEY N/A
+DJCO Publishing - Newspapers
+DAKT Computer Based Systems
+DNBK N/A
+DARA N/A
+DDUP N/A
+DAIO Diversified Electronics
+DTLK N/A
+DRAM N/A
+DSCP N/A
+DATA N/A
+DWCH N/A
+DWSN Oil & Gas Equipment & Services
+DSTI N/A
+DSUP N/A
+DCAP N/A
+DDIC N/A
+TRAK N/A
+DEAR N/A
+DECK Textile - Apparel Footwear & Accessories
+DCGN N/A
+DCTH Drug Delivery
+DLIA N/A
+DELL Computer Hardware
+DGAS N/A
+DPTR N/A
+PROJ N/A
+DNDN N/A
+DENN Restaurants
+XRAY Medical Instruments & Supplies
+DEPO N/A
+DWRI N/A
+DEST N/A
+DSWL Rubber & Plastics
+DXCM Medical Laboratories & Research
+DCAI N/A
+DMND N/A
+DHIL Asset Management
+DTPI N/A
+DDRX N/A
+DGII Networking & Communication Devices
+DMRC Information Technology Services
+DRAD Medical Appliances & Equipment
+DGLY Security & Protection Services
+DIGA N/A
+DGIT N/A
+TBUS N/A
+DRIV N/A
+DCOM N/A
+DIOD Semiconductor - Integrated Circuits
+DNEX N/A
+DISCA CATV Systems
+DISCB
+DISCK
+DSCO N/A
+DISH CATV Systems
+DITC N/A
+DIVX N/A
+DXYN Textile Industrial
+DNBF N/A
+DLLR N/A
+DLTR Discount, Variety Stores
+DGICA
+DGICB Property & Casualty Insurance
+DMLP Diversified Investments
+DORM N/A
+HILL N/A
+DBLE N/A
+DBLEP N/A
+DBTK N/A
+DOVR N/A
+DROOY N/A
+DWA N/A
+DBRN N/A
+DSCM N/A
+DRYS N/A
+DSPG Semiconductor - Integrated Circuits
+DTSI N/A
+DUCK N/A
+DRRX Drug Manufacturers - Other
+DUSA N/A
+DXPE Industrial Equipment Wholesale
+DYAX N/A
+DYII N/A
+DDMX N/A
+BOOM N/A
+DRCO N/A
+DYNT N/A
+DVAX Biotechnology
+ETFC Investment Brokerage - National
+EFUT N/A
+EGBN Banks�Regional
+EGLE Shipping
+EROC N/A
+ELNK N/A
+EWBC Foreign Money Center Banks
+EIHI N/A
+EVBS N/A
+ESIC N/A
+EBAY Specialty Retail, Other
+EBIX Business Software & Services
+ECBE N/A
+ELON N/A
+SATS Communication Equipment
+ECLP N/A
+EEI N/A
+ECTX N/A
+EDAC N/A
+EDAP N/A
+EDCI N/A
+EBHI N/A
+EDEN N/A
+EDGR N/A
+EPEX N/A
+EPEXP N/A
+EDGW N/A
+DIET N/A
+EDUC Publishing - Books
+EFJI N/A
+EHTH Insurance Brokers
+ESLT
+ESYS N/A
+MELA N/A
+ELRC N/A
+ESIO N/A
+ELSE Scientific & Technical Instruments
+ERTS N/A
+EFII N/A
+RDEN N/A
+LONG N/A
+ELOY N/A
+ELRN Conglomerates
+ELTK Printed Circuit Boards
+EMAG N/A
+EMCI N/A
+EMKR Semiconductor - Integrated Circuits
+HLTH N/A
+EMMS Broadcasting - Radio
+EMMSP N/A
+NYNY N/A
+ELMG N/A
+EBTX N/A
+ECPG Asset Management
+WIRE Diversified Electronics
+ENCO N/A
+ENDP Drug Manufacturers�Specialty & Generic
+ENDO
+ELGX N/A
+ENWV N/A
+ENER N/A
+EFOI Home Furnishings & Fixtures
+ERII N/A
+EXXI N/A
+ENOC N/A
+ENG Engineering & Construction
+ESGR Insurance�Diversified
+ENTG Semiconductor Equipment & Materials
+ETRM N/A
+EBTC Savings & Loans
+EFSC N/A
+ENMD N/A
+ENTR N/A
+ENTU N/A
+EPG N/A
+ECGI
+ENZN N/A
+EONC N/A
+EPIC N/A
+EPIQ N/A
+EPIX
+EPHC N/A
+EQIX N/A
+ERES N/A
+ERIE Insurance Brokers
+ESBF N/A
+ESCA Sporting Goods
+ESMC Medical Appliances & Equipment
+ESSA Savings & Loans
+ETEL N/A
+ETWC N/A
+EURX N/A
+CLWT Pollution & Treatment Controls
+EUBK N/A
+EEFT Business Services
+ESEA Marine Shipping
+EVVV N/A
+EVBN Regional - Northeast Banks
+ESLR N/A
+EVOL Technical & System Software
+EVTC Software�Infrastructure
+EXAS Medical Laboratories & Research
+EXAC N/A
+EXAR N/A
+EXEL Biotechnology
+EXFO
+XIDE N/A
+EXLS Business Services
+EXPE Lodging
+EXPEZ N/A
+EXPEW N/A
+EXPD N/A
+EXPO Management Services
+ESRX N/A
+EXLP N/A
+EXTR Networking & Communication Devices
+EZCH N/A
+EZPW Credit Services
+FFIV Business Software & Services
+FACT N/A
+FALC Application Software
+DAVE N/A
+FARM Processed & Packaged Goods
+FFKT N/A
+FARO Scientific & Technical Instruments
+FAST Industrial Equipment Wholesale
+FBSS Regional - Southeast Banks
+FBCM N/A
+FCSX N/A
+FDML N/A
+FFCO N/A
+FEIC N/A
+FFDF Savings & Loans
+FGXI N/A
+FTGX N/A
+FTWR N/A
+FSBI N/A
+LION N/A
+FITBP
+FISI N/A
+FNSR N/A
+FIRE N/A
+FADV N/A
+FABK N/A
+FBNC Regional - Mid-Atlantic Banks
+FNLC Regional - Northeast Banks
+FBSI Savings & Loans
+SUFB N/A
+BUSE Regional - Midwest Banks
+FBIZ Banks�Regional
+FCAL N/A
+FCAP Savings & Loans
+FCVA N/A
+FCFS Credit Services
+FCZA N/A
+FCNCA Regional - Mid-Atlantic Banks
+FCLF N/A
+FCCO N/A
+FCBC Regional - Mid-Atlantic Banks
+FCFL N/A
+FDEF N/A
+FFBH N/A
+FFNM N/A
+FFCH N/A
+FFBC Regional - Midwest Banks
+FFIN Regional - Southwest  Banks
+THFF N/A
+FFNW Regional - Pacific Banks
+FFKY N/A
+FFHS N/A
+FKFS N/A
+FMFC N/A
+FMAR N/A
+FRME Regional - Midwest Banks
+FMBI Regional - Midwest Banks
+FNSC N/A
+FNFG N/A
+FPTB N/A
+FPFC N/A
+FRCCO N/A
+FSFG Regional - Midwest Banks
+FSGI N/A
+FSLR Semiconductor - Specialized
+FSBK N/A
+FSNM N/A
+FUNC Regional - Mid-Atlantic Banks
+FBMI N/A
+FCFC N/A
+FMER N/A
+FSRV
+FISV Business Services
+FSCI N/A
+FLML N/A
+FLDR N/A
+FLXS N/A
+FLEX Printed Circuit Boards
+FLIR Scientific & Technical Instruments
+FLOW Specialty Industrial Machinery
+FFIC Savings & Loans
+FNBN N/A
+FMCN N/A
+FONR Medical Appliances & Equipment
+VIFL N/A
+FRPT Packaged Foods
+ASUR Business Software & Services
+FORM Semiconductor - Broad Line
+FORTY Business Software & Services
+FORR Research Services
+FIGIU N/A
+FNET N/A
+FWRD Air Delivery & Freight Services
+FORD Textile - Apparel Footwear & Accessories
+FOSL Textile - Apparel Footwear & Accessories
+FWLT N/A
+FXCB N/A
+FPBI N/A
+FPIC N/A
+FELE Industrial Electrical Equipment
+FRED N/A
+FREEZ N/A
+FREE N/A
+RAIL N/A
+FEIM Communication Equipment
+APCVZ N/A
+FTBK N/A
+FFEX N/A
+FSII N/A
+FITB Regional - Midwest Banks
+FSYS N/A
+FTEK Pollution & Treatment Controls
+FCEL Diversified Utilities
+FUJI N/A
+FULT Regional - Northeast Banks
+FNDT N/A
+FSIN N/A
+FFHL Packaging & Containers
+FXEN N/A
+FXRE N/A
+GIII Textile - Apparel Clothing
+WILC Food - Major Diversified
+GAIA Catalog & Mail Order Houses
+GMTC N/A
+GPIC N/A
+GMTN N/A
+GRMN Scientific & Technical Instruments
+GPRO Photographic Equipment & Supplies
+GENC Farm & Construction Machinery
+GNLB N/A
+GNCMA N/A
+GFNCU N/A
+GFN Rental & Leasing Services
+GENE
+GHDX N/A
+GXDX N/A
+GETI N/A
+GNTX Auto Parts
+GENT N/A
+GTIV N/A
+GNVC N/A
+GENZ N/A
+GEOY N/A
+GMET N/A
+GORX N/A
+GEOI N/A
+GABC Regional - Midwest Banks
+GERN Biotechnology
+GVHR N/A
+GFIG N/A
+ROCK Steel & Iron
+GIGA Scientific & Technical Instruments
+GIGM Multimedia & Graphics Software
+GILT Communication Equipment
+GILD Biotechnology
+GIVN N/A
+GKSR N/A
+GBCI Regional - Pacific Banks
+GOOD REIT - Diversified
+GOODO N/A
+GOODP N/A
+GLBZ Regional - Mid-Atlantic Banks
+GLBL N/A
+GLBC N/A
+GSOL N/A
+GNET N/A
+GAI N/A
+GLOI N/A
+GSAT Wireless Communications
+GCOM N/A
+GLUU Multimedia & Graphics Software
+GMKT N/A
+GOAM N/A
+GLNG Shipping
+SHIP Shipping
+GLDC N/A
+GFSI N/A
+GOLF Sporting Goods Stores
+GTIM Restaurants
+GOOG Internet Information Providers
+GPCB N/A
+LOPE Education & Training Services
+GRVY Multimedia & Graphics Software
+GRMH N/A
+GFLB N/A
+GLDD Heavy Construction
+GSBC Regional - Southwest  Banks
+WOLF N/A
+GRNB N/A
+GMCR N/A
+GPRE Specialty Chemicals
+GCBC Savings & Loans
+GLRE Accident & Health Insurance
+GRIF Property Management
+OMAB
+GGAL Foreign Regional Banks
+GSLA N/A
+GSIC N/A
+GSIG N/A
+GSIT Semiconductor - Broad Line
+SOLR N/A
+GTSI N/A
+GTXI N/A
+GBNK N/A
+GFED Regional - Southwest  Banks
+GUID N/A
+GIFI Oil & Gas Equipment & Services
+GPOR Independent Oil & Gas
+GYMB N/A
+GYRO REIT - Diversified
+HALL Property & Casualty Insurance
+HALO Biotechnology
+HBNK N/A
+HMPR N/A
+HBHC N/A
+HAFC Regional - Pacific Banks
+HNSN N/A
+HANS N/A
+HRBN N/A
+HDNG N/A
+HGIC N/A
+HNBC N/A
+HARL Regional - Northeast Banks
+HLIT Communication Equipment
+TINY N/A
+HPOL N/A
+HSTX N/A
+HBIO Medical Instruments & Supplies
+HAST N/A
+HAUP Computer Peripherals
+HA Regional Airlines
+HWKN Specialty Chemicals
+HWBK Regional - Northeast Banks
+HAYZ N/A
+HAYN Metal Fabrication
+HEES Rental & Leasing Services
+HGRD N/A
+HCSG Business Services
+HSTM Healthcare Information Services
+HTRN N/A
+HWAY N/A
+HTLD Trucking
+HTLF Regional - Southwest  Banks
+HTWR N/A
+HLYS N/A
+HSII Staffing & Outsourcing Services
+HELE Housewares & Accessories
+HMNA N/A
+HBE N/A
+HSIC Medical Equipment Wholesale
+HERO N/A
+HTBK Regional - Pacific Banks
+HFWA Regional - Pacific Banks
+HBOS N/A
+HEOP N/A
+HCCI Pollution & Treatment Controls
+HRLY N/A
+MLHR Business Equipment
+HSKA Medical Laboratories & Research
+HFFC N/A
+HITK N/A
+HIFN N/A
+HIBB Sporting Goods Stores
+HIHO Metal Fabrication
+HPGP N/A
+HLND N/A
+HIMX Semiconductor - Specialized
+HIFS Savings & Loans
+HRSH N/A
+HITT N/A
+HOLI Industrial Electrical Equipment
+HMNF Savings & Loans
+HMSY Business Services
+HOKU N/A
+HEPH N/A
+HOLX Medical Appliances & Equipment
+HBCP Savings & Loans
+HOMB Money Center Banks
+HDIX N/A
+HOME REIT - Retail
+HMIN N/A
+HCII N/A
+HOFT Home Furnishings & Fixtures
+HFBC N/A
+HBNC Regional - Northeast Banks
+ZINC N/A
+HOTT N/A
+HUSA Independent Oil & Gas
+HWCC Industrial Equipment Wholesale
+HOVNP N/A
+HSNI N/A
+HSWI N/A
+HUBG Air Delivery & Freight Services
+HDSN Diversified Machinery
+HCBK N/A
+HHGP N/A
+HUGH N/A
+HGSI N/A
+HBAN Regional - Midwest Banks
+HBANP N/A
+HPCCP N/A
+HURC Scientific & Technical Instruments
+HURN Management Services
+HRAY N/A
+HTCH N/A
+HYGS N/A
+IFLO N/A
+IDSY N/A
+ITWO N/A
+IACI N/A
+IBAS N/A
+IBKC N/A
+ICAD Technical & System Software
+ICGN N/A
+ICFI Management Services
+ICOC N/A
+ICOG N/A
+ICLR Medical Laboratories & Research
+ICON Textile - Apparel Footwear & Accessories
+ICOP N/A
+ICTG N/A
+ICUI Medical Instruments & Supplies
+ICXT N/A
+IDIX N/A
+IDRA Biotechnology
+IDXX Diagnostic Substances
+IDMI N/A
+IGTE N/A
+IGOI Computer Based Systems
+IIVI Scientific & Technical Instruments
+IKAN N/A
+IKNX Specialty Chemicals
+ILMN Biotechnology
+DISK N/A
+ISNS Application Software
+IMAX Entertainment - Diversified
+IMMR Application Software
+ICCC Biotechnology
+BLUD N/A
+IMGN Biotechnology
+IMMU Biotechnology
+IPXL N/A
+IPSU N/A
+SAAS N/A
+MAIL N/A
+INCY Biotechnology
+IFSB N/A
+INDB Regional - Northeast Banks
+IBCP Regional - Midwest Banks
+IBCPO N/A
+IDEV N/A
+INCB N/A
+IDSA N/A
+NRGY N/A
+NRGP N/A
+INFN Communication Equipment
+INFI Biotechnology
+IPCC N/A
+INFS N/A
+IUSA N/A
+IFLG N/A
+INFA N/A
+III N/A
+IIIIU N/A
+IFON N/A
+INSP Internet Information Providers
+INFY Technical & System Software
+IMKTA Grocery Stores
+INHX N/A
+INWK Business Services
+INOD Internet Software & Services
+IPHS N/A
+IOSP Specialty Chemicals
+INOC N/A
+ISSC Aerospace/Defense Products & Services
+NPLA N/A
+NSIT Application Software
+ISIG Marketing Services
+INSU Heavy Construction
+INSM Biotechnology
+ISPH N/A
+IIIN Steel & Iron
+PODD Medical Instruments & Supplies
+NSUR N/A
+INSW Business Services
+IART Medical Instruments & Supplies
+ISYS N/A
+INMD Medical Practitioners
+IDTI N/A
+IESC General Contractors
+ISSI N/A
+INTC Semiconductor - Broad Line
+ITLN N/A
+IPAR Personal Products
+IBKR Investment Brokerage - National
+ININ N/A
+IDCC Wireless Communications
+IFSIA N/A
+INTG Property Management
+ITMN N/A
+INAP N/A
+IAAC N/A
+IBOC Regional - Southwest  Banks
+ISCA N/A
+ICGE N/A
+IGLD N/A
+INPH N/A
+INTX N/A
+ISIL N/A
+IILG N/A
+IBCA N/A
+IWOV N/A
+INTT Semiconductor - Integrated Circuits
+IVAC Diversified Electronics
+ITRA N/A
+IIN Industrial Electrical Equipment
+INTU Application Software
+ISRG Medical Appliances & Equipment
+ISBC Savings & Loans
+IRETP N/A
+IRET REIT - Diversified
+ITIC Surety & Title Insurance
+INXI N/A
+IPAS N/A
+IPCR N/A
+IPCM N/A
+IPCS N/A
+IPGP Semiconductor Equipment & Materials
+IRIX Medical Appliances & Equipment
+IRIS N/A
+IRBT Appliances
+AAXJ N/A
+IGOV N/A
+ISHG N/A
+IBB N/A
+ISLN N/A
+ISIS N/A
+ISLE N/A
+ISRL N/A
+ISTA N/A
+ITRI Scientific & Technical Instruments
+ITRN
+IVAN N/A
+XXIA N/A
+IXYS N/A
+JJSF Processed & Packaged Goods
+JAX Restaurants
+MAYS Property Management
+JBHT Trucking
+JCOM Internet Software & Services
+JASO N/A
+JCDA N/A
+JKHY Business Software & Services
+JACK Restaurants
+JXSB N/A
+JAXB N/A
+JAKK Toys & Games
+JMBA N/A
+JMBAU N/A
+JRCC N/A
+JAZZ Biotechnology
+JDAS N/A
+JDSU N/A
+JFBI N/A
+JFBC Regional - Northeast Banks
+JBLU Regional Airlines
+JCTCF Lumber, Wood Production
+JST N/A
+JOEZ N/A
+JBSS Processed & Packaged Goods
+JOUT Sporting Goods
+JSDA Beverages - Soft Drinks
+JOSB N/A
+JOYG N/A
+JNPR Networking & Communication Devices
+JUPM N/A
+KSWS N/A
+KTII N/A
+KFED N/A
+KALU Aluminum
+KAMN Aerospace/Defense Products & Services
+KNDI Auto Manufacturers - Major
+KCLI Life Insurance
+KPPC N/A
+KRNY Savings & Loans
+KELYA Staffing & Outsourcing Services
+KELYB
+KNDL N/A
+KNXA N/A
+KNSY N/A
+KENT N/A
+KFFB Savings & Loans
+KERX N/A
+KEQU Business Equipment
+KTEC N/A
+KTCC Computer Peripherals
+KEYN N/A
+KFRC Staffing & Outsourcing Services
+KBALB N/A
+KIRK Home Furnishing Stores
+KLAC Semiconductor Equipment & Materials
+KMGB N/A
+NITE N/A
+VLCCF N/A
+KNOL N/A
+KCAP N/A
+KONG N/A
+KOPN Semiconductor - Broad Line
+KOSS Electronic Equipment
+KTOS Security & Protection Services
+KSW N/A
+KLIC Semiconductor Equipment & Materials
+KVHI Communication Equipment
+FSTR Railroads
+LJPC Biotechnology
+DDSS N/A
+BOOT Apparel Stores
+LDSH N/A
+LSBK Savings & Loans
+LBAI Regional - Northeast Banks
+LKFN Regional - Midwest Banks
+LAKE Medical Instruments & Supplies
+LACO N/A
+LRCX Semiconductor Equipment & Materials
+LAMR REIT - Diversified
+LANC Food - Major Diversified
+LNCE N/A
+LNDC Farm Products
+LARK Regional - Southwest  Banks
+LSTR Trucking
+GAIT N/A
+LTRX Networking & Communication Devices
+LPSB N/A
+LCRD N/A
+LSCC Semiconductor - Specialized
+LAWS Industrial Equipment Wholesale
+LWSN N/A
+LAYN N/A
+LCAV N/A
+LBIX N/A
+LEAP N/A
+LTRE Education & Training Services
+XPRT N/A
+LCRY N/A
+LEGC N/A
+LGCY N/A
+LMAT Medical Instruments & Supplies
+TREE Mortgage Investment
+LVLT N/A
+LXRX Biotechnology
+LHCG Home Health Care
+LBTYA CATV Systems
+LBTYK
+LBTYB
+LINTA N/A
+LCAPA N/A
+LCAPB N/A
+LINTB N/A
+LMDIB N/A
+LMDIA N/A
+LPHI N/A
+LIFE Biotechnology
+LPNT N/A
+LCUT Housewares & Accessories
+LWAY Food - Major Diversified
+LGND Biotechnology
+LPTH Industrial Electrical Equipment
+LIHR N/A
+LIMC N/A
+LIME N/A
+LLNW Internet Information Providers
+LNCR N/A
+LINC Education & Training Services
+LECO Small Tools & Accessories
+LLTC N/A
+LTON N/A
+LINE N/A
+LIOX N/A
+LQDT Catalog & Mail Order Houses
+LFUS Electronics Wholesale
+LIVE Internet Information Providers
+LPSN Business Software & Services
+JADE N/A
+LKQX N/A
+ERIC
+LMIA N/A
+LMLP N/A
+LNBB N/A
+LOCM N/A
+LNET N/A
+LOGC Semiconductor - Specialized
+LGVN N/A
+LGTY N/A
+LOGI
+LOJN N/A
+LOOK N/A
+LOOP Property Management
+LORL Communication Equipment
+LABC N/A
+LSBX N/A
+LSBI N/A
+LYTS Industrial Electrical Equipment
+LTXC N/A
+LUFK N/A
+LULU Textile - Apparel Clothing
+LMNX Medical Instruments & Supplies
+LUNA Scientific & Technical Instruments
+MBTF N/A
+MCBC Regional - Midwest Banks
+MACC N/A
+MACE Specialty Chemicals
+MFNC Regional - Southwest  Banks
+MVSN N/A
+MAGS Security & Protection Services
+MGLN Health Care Plans
+MPET N/A
+MGIC Application Software
+LAVA N/A
+MECA N/A
+MGYR Regional - Northeast Banks
+MHLD Property & Casualty Insurance
+MAIN Diversified Investments
+MSFG N/A
+COOL N/A
+MMUS N/A
+MKTAY
+MAKO N/A
+MLVF Savings & Loans
+MANH Application Software
+LOAN Credit Services
+MNTX Diversified Machinery
+MTEX Personal Products
+MNKD Biotechnology
+MANT Security Software & Services
+MAPP N/A
+MCHX Marketing Services
+MARPS Diversified Investments
+LEDR N/A
+MKTX Investment Brokerage - National
+MRLN Mortgage Investment
+MSHL N/A
+MATK N/A
+MRTN Trucking
+MMLP Oil & Gas Pipelines
+MRVL Semiconductor - Integrated Circuits
+MASI Medical Appliances & Equipment
+MTRX Oil & Gas Equipment & Services
+MTXX N/A
+MATW Personal Services
+MTSN N/A
+MXGL N/A
+MXIM Semiconductor - Broad Line
+MXWL N/A
+MAXY N/A
+MFLR N/A
+MBFI N/A
+MSSR N/A
+MGRC Rental & Leasing Services
+MDCA Marketing Services
+MRNA Biotechnology
+MEAD N/A
+MVCO N/A
+MEAS N/A
+MKTY
+TAXI N/A
+MEDX N/A
+MDAS N/A
+MDTH N/A
+MSII N/A
+MCCC N/A
+MDLK N/A
+MDCI N/A
+MDNU N/A
+MDCO N/A
+MNOV Biotechnology
+MDVN N/A
+MEDW N/A
+MEDQ N/A
+MTOX N/A
+MPEL N/A
+MLNX N/A
+MEMY N/A
+MEMS N/A
+MENT N/A
+MTDB N/A
+MTSL Diversified Communication Services
+MELI Catalog & Mail Order Houses
+MBWM Regional - Midwest Banks
+MIGP N/A
+MERC Paper & Paper Products
+MBVT N/A
+MRCY Computer Peripherals
+MRGE Healthcare Information Services
+VIVO Diagnostic Substances
+EBSB Savings & Loans
+MMSI Medical Instruments & Supplies
+MERX N/A
+MSPX N/A
+MNNY N/A
+PGEB N/A
+SRDD N/A
+MTTX N/A
+MTTT N/A
+DOWT N/A
+LERA N/A
+MTSM N/A
+SRIB N/A
+LNDU N/A
+DWMT N/A
+MTNK N/A
+PDNT N/A
+SRRR N/A
+MERR Asset Management
+MESA
+MLAB Medical Instruments & Supplies
+CASH Savings & Loans
+MBRX Biotechnology
+MBLX N/A
+MTLK Semiconductor - Integrated Circuits
+MEOH Specialty Chemicals
+MCBI Regional - Southwest  Banks
+CASA Communication Equipment
+MFRI N/A
+MGEE Diversified Utilities
+MGPI Beverages - Wineries & Distillers
+MDH N/A
+MCHP Semiconductor - Broad Line
+MFI N/A
+MITI Biotechnology
+NOIZ N/A
+MCRS N/A
+MSCC N/A
+MSFT Business Software & Services
+MSTR Application Software
+TUNE N/A
+MVIS Diversified Electronics
+MEND N/A
+MPB Regional - Northeast Banks
+MBRK N/A
+MBRG N/A
+MSEX Water Utilities
+MBHI N/A
+MBHIP N/A
+MOFG Regional - Southwest  Banks
+SMCG N/A
+SMCGU The Man Who Bought Amazon at $48 Says Buy TaaS Now
+MICC N/A
+MNDO Information Technology Services
+MSPD N/A
+MIPS N/A
+MSON Medical Appliances & Equipment
+MSW N/A
+MIND Scientific & Technical Instruments
+MITSY
+MIVA N/A
+MKSI Scientific & Technical Instruments
+CMKG N/A
+MINI N/A
+MOCO N/A
+MPAC N/A
+MIPI N/A
+MOLX N/A
+MOLXA N/A
+MNTA Drugs - Generic
+MCRI Resorts & Casinos
+MCBF N/A
+MNRK N/A
+MNRTP N/A
+MNRTA N/A
+MGRM N/A
+MPWR Semiconductor - Specialized
+TYPE N/A
+MNRO Auto Parts
+MROE N/A
+PSTA N/A
+ESTX N/A
+NBXH N/A
+MSNQ N/A
+MHGC N/A
+MORN Information & Delivery Services
+MOSY Semiconductor - Integrated Circuits
+MPAA Auto Parts
+UNCL N/A
+MRVC N/A
+MSBF N/A
+MSCS N/A
+MNTG N/A
+MTSI Semiconductor - Broad Line
+MTSC Scientific & Technical Instruments
+MFLX N/A
+LABL N/A
+MBND N/A
+MGAM N/A
+MFSF N/A
+MWIV N/A
+MYL Drugs - Generic
+MYLNP N/A
+MYRG General Contractors
+MYGN Research Services
+NABI N/A
+NANO N/A
+NSPH N/A
+NSSC Security & Protection Services
+NARA N/A
+NASB Savings & Loans
+ZYSTF N/A
+NDAQ Diversified Investments
+NAFC N/A
+NSHA N/A
+NATH Restaurants
+NKSH Regional - Mid-Atlantic Banks
+FIZZ Beverages - Soft Drinks
+NCMI Marketing Services
+NCOC N/A
+NADX N/A
+NATI Technical & System Software
+NATL N/A
+NPBC N/A
+NPBCO N/A
+NRCI N/A
+NSEC Property & Casualty Insurance
+NTSC N/A
+NWLI Life Insurance
+NAII Drug Related Products
+BABY N/A
+NVSL N/A
+NAVR N/A
+NAVG N/A
+NAVI Credit Services
+NBTB Regional - Northeast Banks
+NBTF N/A
+NCIT N/A
+NNDS N/A
+NKTR Biotechnology
+NEOG Diagnostic Substances
+NEPT
+NSTC N/A
+UEPS Business Services
+NETC N/A
+NTAP Data Storage Devices
+NTES Internet Software & Services
+NFLX CATV Systems
+NTGR Communication Equipment
+NETL N/A
+NTCT Business Software & Services
+NTWK Application Software
+NENG N/A
+NWK N/A
+NTII
+NBIX Drugs - Generic
+NRGN N/A
+NURO Medical Instruments & Supplies
+TNDM Medical Instruments & Supplies
+NCBC N/A
+NEBS N/A
+NOOF N/A
+NGBF N/A
+NHTB N/A
+NWMO N/A
+NOEC Agricultural Chemicals
+HAVNP N/A
+NYMT REIT - Residential
+NBBC N/A
+NEWP N/A
+NFSB N/A
+NWSA Broadcasting - TV
+NWS
+NEWS N/A
+NEWT Business Services
+NEXM N/A
+NXST Broadcasting - TV
+NEXS Diversified Electronics
+NGAS N/A
+EGOV Application Software
+NICE
+NICK Credit Services
+NHWK N/A
+NIHD N/A
+NLTX Biotechnology
+NINE Business Software & Services
+NTMD N/A
+NMTI N/A
+NNBR Machine Tools & Accessories
+NLCI N/A
+NOBH Manufactured Housing
+NOBL N/A
+NDSN Diversified Machinery
+NSYS Diversified Electronics
+NGA N/A
+NASM N/A
+FFFD N/A
+NOVB N/A
+NBN Regional - Northeast Banks
+NECB Savings & Loans
+NSFC N/A
+NTIC Specialty Chemicals
+NTRS Asset Management
+NFBK Regional - Northeast Banks
+NFLD N/A
+NRIM Regional - Pacific Banks
+NWSB N/A
+NWPX Steel & Iron
+NWFL Regional - Northeast Banks
+NVMI Semiconductor Equipment & Materials
+NOVA Management Services
+TONS N/A
+NVTL N/A
+NVAX Biotechnology
+NOVL N/A
+NVLS N/A
+NOVN
+NVGN N/A
+NPSP N/A
+NTLS N/A
+NUHC N/A
+NUAN Application Software
+NCST N/A
+NMRX N/A
+NUTR N/A
+NTRI N/A
+NUVA Medical Appliances & Equipment
+NUVO N/A
+NVEC Semiconductor - Specialized
+NVDA Semiconductor - Specialized
+NXTM N/A
+NYER N/A
+NYMX Diagnostic Substances
+OICO N/A
+OIIM Diversified Electronics
+BKOR Regional - Mid-Atlantic Banks
+OVLY Regional - Pacific Banks
+OMPI N/A
+OCNW N/A
+TEAR N/A
+OCCX N/A
+OBCI Cleaning Products
+OPTT Diversified Machinery
+OSHC N/A
+OCFC Savings & Loans
+OCNF N/A
+CHUX N/A
+OCLR N/A
+OCLS N/A
+ODSY N/A
+OMEX Specialty Business Services
+OLCB N/A
+OVBC Regional - Midwest Banks
+ODFL Trucking
+OLBK N/A
+OPOF Regional - Mid-Atlantic Banks
+OSBCP N/A
+OSBC Banks�Regional
+ZEUS Steel & Iron
+OFLX Industrial Equipment & Components
+ONAV N/A
+OMNI N/A
+OMCL Healthcare Information Services
+OMTR N/A
+OVTI N/A
+ASGN Staffing & Outsourcing Services
+ONNN N/A
+OTIV N/A
+OGXI N/A
+ONCY
+ONTY N/A
+ONFC N/A
+ORCC Internet Software & Services
+ONSM N/A
+ONVI N/A
+ONXX N/A
+OTEX Software�Application
+OPTV N/A
+OPWV N/A
+OPXA N/A
+OPLK N/A
+OPNT Application Software
+OPXT N/A
+OPTC N/A
+OBAS Property Management
+OCCF N/A
+OPMR N/A
+OPTR N/A
+OPHC Regional - Mid-Atlantic Banks
+OXPS N/A
+ORCL Application Software
+OSUR Medical Instruments & Supplies
+ORBC Diversified Communication Services
+ORBT Diversified Electronics
+ORBK N/A
+ORCH N/A
+ORCT N/A
+ORLY Auto Parts Stores
+SEED Farm Products
+OESX Diversified Electronics
+OMGI N/A
+ORIT N/A
+ORRF Banks�Regional
+OFIX Medical Appliances & Equipment
+CAPS Biotechnology
+VITA N/A
+OSCI
+OSIP N/A
+OSIS Industrial Electrical Equipment
+OSIR N/A
+OSTE N/A
+OTT N/A
+OTTR Utilities�Diversified
+OUTD N/A
+OVRL N/A
+OSTK Catalog & Mail Order Houses
+OXGN N/A
+OYOG N/A
+PFIN Small Tools & Accessories
+PTSI Trucking
+PFCB N/A
+PABK N/A
+PCAR Trucks & Other Vehicles
+PACR N/A
+PCBC N/A
+PCBK N/A
+PEIX Oil & Gas Refining & Marketing
+PMBC Regional - Pacific Banks
+PPBI Regional - Pacific Banks
+PSBC
+PSUN N/A
+PACW Regional - Pacific Banks
+PAET N/A
+PTIE N/A
+PALM N/A
+PHHM N/A
+PMTI N/A
+PBCI N/A
+PAAS
+PNRA N/A
+PSOF N/A
+PZZA Specialty Eateries
+PRGN N/A
+PLLL N/A
+PMTC N/A
+KIDS
+PRXL N/A
+PFED N/A
+PKOH Industrial Equipment Wholesale
+PKBK Regional - Northeast Banks
+PVSA N/A
+PARL N/A
+PTNR Wireless Communications
+PBHC Savings & Loans
+PATK Lumber, Wood Production
+PCAP N/A
+PNBK Regional - Northeast Banks
+PATR N/A
+PDCO Medical Equipment Wholesale
+PTEN Oil & Gas Drilling & Exploration
+PLCC N/A
+PAYX Staffing & Outsourcing Services
+PCCC N/A
+MALL N/A
+PCTI Wireless Communications
+PDFS Technical & System Software
+PDII N/A
+PDLI Biotechnology
+PGC Regional - Northeast Banks
+PIII N/A
+PRLS N/A
+PEET N/A
+PEGA Business Software & Services
+PENX N/A
+PENN Resorts & Casinos
+PNNT Asset Management
+PNNW N/A
+PWOD Regional - Mid-Atlantic Banks
+COBH N/A
+PPCO N/A
+PEBO Regional - Midwest Banks
+PEBK Regional - Mid-Atlantic Banks
+PBCT Savings & Loans
+PEDH Publishing - Books
+PFBX Regional - Northeast Banks
+PSTI Biotechnology
+PRCP Scientific & Technical Instruments
+PWRD N/A
+PRFT Information Technology Services
+PTIX Networking & Communication Devices
+PERF N/A
+PSEM N/A
+PESI Waste Management
+PRGO Drug Related Products
+PERY N/A
+PVSW N/A
+VETS N/A
+VETSU N/A
+PETS Drug Delivery
+PETD N/A
+PETM N/A
+PFSW Business Services
+PGTI General Building Materials
+PPDI N/A
+PCYC N/A
+PDGI N/A
+PXSL N/A
+PFWD N/A
+ANTP N/A
+PTEC N/A
+PHMD N/A
+PHMDD N/A
+PLAB Semiconductor Equipment & Materials
+FACE N/A
+PICO Conglomerates
+PNCL N/A
+PNFP Regional - Southeast Banks
+PINN N/A
+PXPL N/A
+PXLW Semiconductor - Integrated Circuits
+PZZI N/A
+PLNR N/A
+LGBT N/A
+TUTR N/A
+PLXS Printed Circuit Boards
+PLUG Diversified Electronics
+PLBC Regional - Pacific Banks
+PLXT N/A
+PMACA N/A
+PMCS N/A
+PMFG N/A
+PTSX N/A
+PNTR N/A
+PTEK N/A
+PLCM N/A
+PARD Biotechnology
+SNAK N/A
+POPE N/A
+BPOPN N/A
+BPOP Foreign Regional Banks
+BPOPM N/A
+PRPX N/A
+PBIB N/A
+PRAA Business Services
+POWL Diversified Machinery
+POWI Semiconductor - Integrated Circuits
+PWER N/A
+POWR N/A
+PWAV N/A
+POZN N/A
+PRAN N/A
+PFBC Regional - Pacific Banks
+PLPC Industrial Electrical Equipment
+PRXI N/A
+PFBI Regional - Southeast Banks
+PRWT N/A
+PLFE N/A
+PRST N/A
+PBIO Medical Appliances & Equipment
+PRGX Business Services
+PSMT Discount, Variety Stores
+PNRG Independent Oil & Gas
+PRIM Heavy Construction
+PRIMU N/A
+PNBC Regional - Midwest Banks
+PRVT N/A
+PVTB N/A
+PVTBP N/A
+PDEX Medical Instruments & Supplies
+PFACP N/A
+PGLA N/A
+PGNX N/A
+PRGS Application Software
+PSEC Asset Management
+PRSP Regional - Southwest  Banks
+PONE N/A
+PRSC Specialized Health Services
+PWX N/A
+PBKS N/A
+PROV Savings & Loans
+PBNY N/A
+PBIP Savings & Loans
+PSBH N/A
+PSSI N/A
+PMD Medical Laboratories & Research
+PSYS Specialized Health Services
+PULB N/A
+PCYO Water Utilities
+PRPL
+PVFC N/A
+QEPC
+QADI N/A
+QCCO Savings & Loans
+QCRH Regional - Southwest  Banks
+XING N/A
+QLGC N/A
+QLTI N/A
+QDHC N/A
+QCOM Communication Equipment
+QLTY N/A
+QSII N/A
+QBAK Diversified Electronics
+QTWW N/A
+QELP N/A
+QRCP N/A
+QSFT N/A
+QCOR N/A
+QUIK Semiconductor - Integrated Circuits
+QDEL Diagnostic Substances
+QUIX N/A
+DFZ N/A
+RADA Aerospace/Defense - Major Diversified
+RDCM Computer Peripherals
+RADS N/A
+ROIAK N/A
+ROIA N/A
+RSYS N/A
+RDNT Medical Laboratories & Research
+RVSN N/A
+RDWR Information Technology Services
+RMKR N/A
+RAME N/A
+RMBS Semiconductor- Memory Chips
+RMTR N/A
+RAND Asset Management
+GOLD
+RAVN Diversified Machinery
+ROLL Machine Tools & Accessories
+RCRC N/A
+RCMT Staffing & Outsourcing Services
+RCNI N/A
+RSOL N/A
+RNWK Multimedia & Graphics Software
+RRGB Restaurants
+HOOK Beverages - Brewers
+REDF N/A
+REED Beverages - Soft Drinks
+RGNC N/A
+RTIX N/A
+REGN Biotechnology
+REIS N/A
+RELV Food - Major Diversified
+RLRN N/A
+RNST Money Center Banks
+RNGY N/A
+RCII Rental & Leasing Services
+RENT N/A
+RDYN N/A
+RGEN Biotechnology
+RPRX Biotechnology
+RJET N/A
+RBCAA Regional - Southeast Banks
+FRBK Regional - Northeast Banks
+RSCR N/A
+REFR Industrial Electrical Equipment
+REXI N/A
+RECN N/A
+RGDX N/A
+RTLX N/A
+DINE N/A
+RFIL Diversified Electronics
+RFMD N/A
+RFMI N/A
+RGCO Gas Utilities
+RHIE N/A
+RELL Electronics Wholesale
+RICK Restaurants
+RIGL Drugs - Generic
+RNOW N/A
+RIMG N/A
+RVEP N/A
+RITT Communication Equipment
+RIVR N/A
+RVBD N/A
+RVSB Savings & Loans
+ROCM N/A
+ROAC N/A
+RCKB N/A
+RMTI Drug Manufacturers - Major
+RMCF Confectioners
+RCKY Textile - Apparel Footwear & Accessories
+RODM N/A
+RSTI N/A
+ROMA N/A
+ROME N/A
+ROSE Oil & Gas E&P
+ROST Apparel Stores
+RBPAA N/A
+RGLD Gold
+ROYL Independent Oil & Gas
+RRST N/A
+RBCN Semiconductor Equipment & Materials
+RUBO N/A
+RTEC N/A
+RURL N/A
+RBNF N/A
+RUSHA
+RUSHB Auto Dealerships
+RUTH Restaurants
+RXII N/A
+RYAAY
+SYBT Regional - Southeast Banks
+SYBTP N/A
+SONE N/A
+SAFT Property & Casualty Insurance
+SAIA Trucking
+SLRY N/A
+SALM Broadcasting - Radio
+SLXP N/A
+SMHG N/A
+SAFM Food - Major Diversified
+SNDK N/A
+SASR Regional - Mid-Atlantic Banks
+SGMO Biotechnology
+SANM Diversified Electronics
+SNTS N/A
+SPNS Business Software & Services
+SAPE N/A
+SATC N/A
+SVNT N/A
+SVVS N/A
+SBAC Diversified Communication Services
+SCSC Technical & System Software
+SCBT N/A
+SMIT Scientific & Technical Instruments
+SCHN Steel & Iron
+SCHL Publishing - Books
+SCHS N/A
+SCLN N/A
+SGMS Gaming Activities
+SCIL Education & Training Services
+SCMM N/A
+SCOP N/A
+POOL Sporting Goods
+SBLK Shipping
+SEAC Application Software
+SBCF Regional - Mid-Atlantic Banks
+STX Data Storage Devices
+SGEN Biotechnology
+SBKC N/A
+SNFCA Credit Services
+SEIC Asset Management
+SCSS N/A
+SLTC N/A
+SIGI Property & Casualty Insurance
+SMTL N/A
+SMTC Semiconductor - Integrated Circuits
+SENEB Processed & Packaged Goods
+SENEA Processed & Packaged Goods
+SNMX N/A
+SENO N/A
+SEPR N/A
+SQNM N/A
+SRLS N/A
+SERV Business Services
+SVBI Regional - Mid-Atlantic Banks
+SHMR N/A
+SNDA N/A
+SHEN Telecom Services - Domestic
+SHLO Metal Fabrication
+BEST Packaging & Containers
+SHPGY N/A
+SCVL Apparel Stores
+SHBI Regional - Mid-Atlantic Banks
+SHOR N/A
+SHFL N/A
+SFLY N/A
+SIFI N/A
+SIEB Investment Brokerage - Regional
+BSRR Regional - Pacific Banks
+SWIR
+SIFY Internet Service Providers
+SIGA Biotechnology
+SIAL N/A
+SGMA Printed Circuit Boards
+SBNY Regional - Mid-Atlantic Banks
+SLGN Packaging & Containers
+SILC Networking & Communication Devices
+SGIC N/A
+SIMG N/A
+SLAB Semiconductor - Integrated Circuits
+SIMO Diversified Electronics
+SSTI N/A
+SPIL N/A
+SSRI N/A
+SVLF N/A
+SSTR N/A
+SFNC Money Center Banks
+STEC N/A
+SMTK N/A
+SLP Business Software & Services
+SINA Internet Software & Services
+SBGI Broadcasting - TV
+SINO Air Delivery & Freight Services
+SNEN N/A
+SIRF N/A
+SIRI Broadcasting - Radio
+SIRO N/A
+SKIL N/A
+SKYW Regional Airlines
+SWKS Semiconductor - Integrated Circuits
+SMBL N/A
+SMOD N/A
+HEAT N/A
+SPRO Education & Training Services
+FUEL N/A
+SWHC N/A
+SMSI Application Software
+SMTB N/A
+SMTX Printed Circuit Boards
+SSCCP N/A
+SCKT Computer Peripherals
+SOHU Internet Information Providers
+SOLF N/A
+SLTM N/A
+SMTS N/A
+SOMX N/A
+SOMH N/A
+SNSTA N/A
+SONC N/A
+SNCI N/A
+SNIC N/A
+SNWL N/A
+SONO Medical Instruments & Supplies
+SONS N/A
+SORL N/A
+SDBT N/A
+SORC N/A
+TSFG N/A
+STXX N/A
+SOCB N/A
+SCMF N/A
+SCMFO N/A
+SFST Money Center Banks
+SMBC Savings & Loans
+SONA Regional - Mid-Atlantic Banks
+SBSI Regional - Mid-Atlantic Banks
+OKSBP N/A
+OKSB N/A
+SWWC N/A
+SPAB N/A
+SPAN N/A
+SBSA N/A
+SPSN N/A
+SGRP Business Services
+SPAR N/A
+SPTN Food Wholesale
+SUAI N/A
+SPPI Biotechnology
+SPEC Diversified Electronics
+SPDE N/A
+SPEX N/A
+SPIR Semiconductor - Broad Line
+SPCHB N/A
+SPCHA N/A
+RBI N/A
+SPRD N/A
+SPSS N/A
+STRC N/A
+SRSL N/A
+STBA Regional - Northeast Banks
+STAA Medical Instruments & Supplies
+STMP Application Software
+SMSC N/A
+STAN N/A
+SPLS N/A
+STRZ Restaurants
+STSI N/A
+SBUX Specialty Eateries
+STAR REIT�Diversified
+LIMS N/A
+STFC Property & Casualty Insurance
+STBC N/A
+GASS Shipping
+STLD Steel & Iron
+SMRT Apparel Stores
+STNR N/A
+STEL N/A
+STEM N/A
+STXS Medical Appliances & Equipment
+SRCL Waste Management
+SBIB N/A
+SBIBN N/A
+STBK N/A
+STRL Heavy Construction
+STSA Savings & Loans
+SHOO Textile - Apparel Footwear & Accessories
+SSFN N/A
+STEI N/A
+STON Personal Services
+SSYS Computer Peripherals
+SDIX N/A
+STRT Auto Parts
+STRS Real Estate Development
+STRA Education & Training Services
+STRM Healthcare Information Services
+SCMP N/A
+SFSF N/A
+SUBK N/A
+SUMR Personal Products
+SMMF Regional - Mid-Atlantic Banks
+SSBI Regional - Pacific Banks
+SUMT N/A
+SNBC N/A
+SUNH N/A
+SNHY N/A
+JAVA Most Hilarious Kitchen Renovation Fails
+SNSS Biotechnology
+STKL
+SPWRA N/A
+SPWRB N/A
+SMCI Networking & Communication Devices
+SCON Semiconductor - Integrated Circuits
+SUPG N/A
+SUPR N/A
+SGC Textile - Apparel Clothing
+SWSI N/A
+SPPRP N/A
+SPPR N/A
+SPPRO N/A
+SUPX N/A
+SPRT Internet Software & Services
+SURW N/A
+SRDX Diagnostic Substances
+SUSQ N/A
+SUSS N/A
+SBBX Banks�Regional
+SUTR N/A
+STRN N/A
+SIVB Regional - Pacific Banks
+SDXC N/A
+SXCI N/A
+SCMR N/A
+SYKE Information Technology Services
+SYMC N/A
+SYMM N/A
+SYMS N/A
+SMMX N/A
+SYNL Steel & Iron
+SYNA Application Software
+SNCR Application Software
+ELOS N/A
+SNPS Semiconductor Equipment & Materials
+SYNO N/A
+SNTA N/A
+SYNT N/A
+SYMX N/A
+SYNM N/A
+SYUT N/A
+SYPR Auto Parts
+TTES N/A
+TROW Asset Management
+TAIT Electronics Wholesale
+TTWO Multimedia & Graphics Software
+TLEO N/A
+TBAC N/A
+NGLS N/A
+TRGT N/A
+TARG N/A
+TGEN N/A
+TARR N/A
+TAGS N/A
+TASR N/A
+TSTY N/A
+TATTF N/A
+TAYC N/A
+TAYCP N/A
+TAYD Diversified Machinery
+TBSI N/A
+TCLP N/A
+AMTD Investment Brokerage - National
+TISI Business Services
+TSTF N/A
+TECD N/A
+TO N/A
+TECH Biotechnology
+TRCI N/A
+TTGT Internet Information Providers
+TEAM Information Technology Services
+TWLL N/A
+TECUA N/A
+TECUB N/A
+TGAL N/A
+TKLC N/A
+TELOZ N/A
+TSYS N/A
+TFONY N/A
+TSTC N/A
+TTEC Business Services
+TELK N/A
+TLAB N/A
+WRLS N/A
+TLVT N/A
+TNCC N/A
+TMRK N/A
+TSTR N/A
+TESO N/A
+TESS Communication Equipment
+TSRA N/A
+TEC N/A
+TTEK Technical Services
+TEVA Drug Manufacturers - Other
+TCBI Regional - Southwest  Banks
+TXRH Restaurants
+THRD N/A
+TFSL Regional - Midwest Banks
+TGE N/A
+ABCO N/A
+ANDE Farm Products
+ARTLP N/A
+ARTL N/A
+TBBK Regional - Mid-Atlantic Banks
+CAKE Restaurants
+PLCE Apparel Stores
+CTBC N/A
+EXBD N/A
+DSGX N/A
+DTV N/A
+ESBK Regional - Northeast Banks
+ENSG Long-Term Care Facilities
+FINL N/A
+FBMS Regional - Southeast Banks
+FLIC Regional - Northeast Banks
+HCKT Management Services
+HAIN Food Wholesale
+KNOT N/A
+TMNG N/A
+MIDD Diversified Machinery
+ORCD N/A
+PTRY N/A
+QGLY N/A
+SAVB N/A
+SPNC N/A
+ULTI N/A
+WTSLA N/A
+NCTY Multimedia & Graphics Software
+THRX N/A
+THMD N/A
+THRM Auto Parts
+KOOL The Most Expensive Antiques Roadshow Find Ever
+TSCM N/A
+SWIM N/A
+TGIS N/A
+TPGI N/A
+TWPG N/A
+THOR N/A
+THQI N/A
+THLD N/A
+TIBB N/A
+TIBX N/A
+TKTM N/A
+TDBK N/A
+TIER N/A
+TIGR Application Software
+TIII N/A
+TSBK Savings & Loans
+TWTC N/A
+TITN Industrial Equipment Wholesale
+TIVO N/A
+TIXC General Entertainment
+TLCV N/A
+TLGD N/A
+TOMO N/A
+TXIC Auto Parts
+TXICU N/A
+TISA N/A
+TOPS Shipping
+TORM Specialty Chemicals
+TRGL N/A
+TPTX N/A
+TTUN N/A
+TOBC N/A
+TOFC N/A
+TWGP N/A
+TSEMG N/A
+TSEM Semiconductor - Integrated Circuits
+TWER Diversified Communication Services
+CLUB Sporting Activities
+TOWN Regional - Mid-Atlantic Banks
+TSCO Specialty Retail, Other
+TRAD N/A
+TRBR N/A
+TWMC Music & Video Stores
+TSON N/A
+TACT Computer Peripherals
+TRNS Scientific & Technical Instruments
+TRCR N/A
+TSPT N/A
+TGA Independent Oil & Gas
+TTHI N/A
+TMTA N/A
+TXCC N/A
+TZOO Internet Information Providers
+TCAP N/A
+TCBK Regional - Pacific Banks
+TRMA N/A
+TRMB Scientific & Technical Instruments
+TRMS N/A
+TRIB Diagnostic Substances
+TRIN N/A
+TTPA N/A
+TQNT N/A
+TRBN N/A
+TRLG N/A
+TRMP N/A
+TRST Regional - Northeast Banks
+TRMK Regional - Southeast Banks
+TSRI Business Software & Services
+TTIL N/A
+TTMI Printed Circuit Boards
+TUES N/A
+TFCO N/A
+OVEN N/A
+TWIN Diversified Machinery
+TXCO N/A
+PRTS Specialty Retail, Other
+USEG Independent Oil & Gas
+GROW Asset Management
+USHS N/A
+USPH Specialized Health Services
+UAUA N/A
+UCNN N/A
+UFPT Packaging & Containers
+ULTA Specialty Retail, Other
+UCTT Semiconductor - Specialized
+ULBI Industrial Electrical Equipment
+ULTR N/A
+UTEK N/A
+UMBF Regional - Southwest  Banks
+UMPQ Regional - Pacific Banks
+UNCA N/A
+UNAM Property & Casualty Insurance
+UNFY N/A
+UBSH N/A
+UNB Regional - Northeast Banks
+UDRL N/A
+INDM N/A
+UAHC N/A
+UBCP Regional - Midwest Banks
+UBOH Money Center Banks
+UBSI Regional - Mid-Atlantic Banks
+UCBA N/A
+UCBI Regional - Mid-Atlantic Banks
+UCFC N/A
+UBNK N/A
+UFCS Property & Casualty Insurance
+UNTD N/A
+UPFC N/A
+USBI N/A
+UBFO Regional - Pacific Banks
+USLM General Building Materials
+USTR N/A
+UTHR Drug Manufacturers - Other
+UG Personal Products
+UNTY Money Center Banks
+PANL Shipping
+UEIC Electronic Equipment
+UFPI Lumber, Wood Production
+USAP Steel & Iron
+UACL N/A
+UVSP Regional - Northeast Banks
+URRE N/A
+URBN Apparel Stores
+ULGX Medical Appliances & Equipment
+USMO N/A
+USAT Technical & System Software
+USATP N/A
+USAK Trucking
+USNA Drug Related Products
+UTMD Medical Instruments & Supplies
+UTIW N/A
+UTSI Wireless Communications
+LNUX N/A
+VLNC N/A
+VYFC N/A
+VPF N/A
+VALU Publishing - Periodicals
+VVTV N/A
+VNDA Biotechnology
+VSEA N/A
+VARI N/A
+VASC N/A
+VSGN N/A
+WOOF N/A
+VCGH N/A
+VECO Semiconductor Equipment & Materials
+VELC N/A
+VTIV N/A
+VRAZ N/A
+VRNM N/A
+CHIP N/A
+VRGY N/A
+VRSN Internet Information Providers
+VRTS Asset Management
+VSNT N/A
+VRTX Biotechnology
+VRTA Mortgage Investment
+VRTB Mortgage Investment
+VSAT Communication Equipment
+VICL N/A
+VICR Diversified Electronics
+VIDE Computer Peripherals
+VPFG N/A
+VIGN N/A
+VBFC Regional - Mid-Atlantic Banks
+VLGEA Grocery Stores
+VIMC N/A
+VIRL N/A
+VIRC Business Equipment
+VMED N/A
+VCBI N/A
+VPHM N/A
+VRAD N/A
+VSCP N/A
+VRTSV N/A
+VRTU Information Technology Services
+VSCI N/A
+VISN N/A
+VIST Regional - Northeast Banks
+VPRT N/A
+VTAL N/A
+VTNC N/A
+VVUS N/A
+VNUS N/A
+VOCL N/A
+VOCS N/A
+VOLC N/A
+VLCM N/A
+VOLT Data Storage Devices
+VLTR N/A
+VOXW N/A
+VSBN N/A
+VSEC Technical Services
+VUNC N/A
+WBNK N/A
+WACLY
+WAIN N/A
+WCRX N/A
+WRES N/A
+WWVY N/A
+WBCO N/A
+WFSL N/A
+WASH Regional - Northeast Banks
+WSII N/A
+WSBF Savings & Loans
+WAVX N/A
+WVCM N/A
+WAYN Savings & Loans
+WSTG Computers Wholesale
+WCAA N/A
+WDFC Specialty Chemicals
+WWWW N/A
+WBMD N/A
+WEBM N/A
+WBSN N/A
+WZEN N/A
+WGNR
+WERN Trucking
+WSBC Regional - Mid-Atlantic Banks
+WTBA Regional - Southwest  Banks
+WCBO N/A
+WMAR N/A
+WSTF N/A
+WABC Regional - Pacific Banks
+WSTL Communication Equipment
+WEST N/A
+WFD N/A
+WPRT Auto Parts
+WEYS Textile - Apparel Footwear & Accessories
+WGNA N/A
+WEDC N/A
+WTNY N/A
+WFMI N/A
+WXCO N/A
+WVVI Beverages - Wineries & Distillers
+WLDN Technical Services
+WLFC Rental & Leasing Services
+WLFCP N/A
+WIBC N/A
+WIND N/A
+WINA Specialty Retail, Other
+WINN N/A
+WTFC Regional - Midwest Banks
+RNIN N/A
+WGOV N/A
+WRLD Credit Services
+XWES N/A
+WHRT N/A
+WPPGY N/A
+WPTE N/A
+WMGI Medical Appliances & Equipment
+WSFG N/A
+WSB N/A
+WSFS Regional - Mid-Atlantic Banks
+WSCI N/A
+WUHN Diversified Machinery
+WVFC Savings & Loans
+WYNN Resorts & Casinos
+XRIT N/A
+XATA N/A
+XNPT N/A
+XETA N/A
+XLNX Semiconductor - Integrated Circuits
+XFML N/A
+XSEL N/A
+XOMA Biotechnology
+XTNT
+XTLB
+XRTX N/A
+YAVY N/A
+YHOO N/A
+YORW Water Utilities
+UBET N/A
+YDNT N/A
+YRCW Trucking
+YTEC N/A
+ZANE N/A
+ZRBA N/A
+ZBRA Diversified Machinery
+ZHNE N/A
+HOGS N/A
+ZICA N/A
+ZILA N/A
+ZILG N/A
+ZION Regional - Pacific Banks
+ZIOP Biotechnology
+ZIPR N/A
+ZIXI Application Software
+ZOLL N/A
+ZOLT N/A
+ZOOM N/A
+ZRAN N/A
+ZUMZ Specialty Retail, Other
+ZIGO N/A
+ZGEN N/A
+SMLC N/A
+FLWS Specialty Retail, Other
+FCTY N/A
+FCCY Regional - Northeast Banks
+SRCE Regional - Midwest Banks
+TCHC Property & Casualty Insurance
+COMS N/A
+TDSC N/A
+SSRX N/A
+JOBS Staffing & Outsourcing Services
+EGHT Diversified Communication Services

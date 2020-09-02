@@ -1,0 +1,150 @@
+A. Schulman  SHLM NA
+A.c. Moore Arts Crafts  ACMR 107.94
+A.d.a.m. Inc.  ADAM NA
+Aaipharma AAII NA
+Aaon  AAON 59.98
+Abaxis  ABAX NA
+Abigail Adams National Bancorp  AANB NA
+Abington Bancorp  ABBC NA
+Abiomed ABMD 317.00
+Abraxas Petroleum  AXAS 0.2114
+Abraxis Bioscience Inc.  ABII NA
+Acacia ACTG 3.9500
+Acadia ACAD 42.87
+Accelrys  ACCL NA
+Access Integrated Technologies  CIDM 1.4700
+Access National  ANCX NA
+Access Plans Usa AUSA NA
+Accuray Incorporated  ARAY 2.5900
+Acergy ACGY NA
+Achillion Pharmaceuticals  ACHN 28.43
+Aci Worldwide  ACIW NA
+Acme Packet  APKT 0.7097
+Acorda Therapeutics  ACOR 0.0002
+Actel  ACTL 0.0000
+Actions Semiconductor Co. Ltd. Ads ACTS NA
+Active Power  ACPW NA
+Actividentity  ACTI 84.32
+Activision Blizzard  ATVI NA
+Actuate  ACTU 0.2800
+Acura Pharmaceuticals  ACUR NA
+Acxiom ACXM 4.0900
+Ada-es  ADES 39.82
+Adams Golf  ADGF 51.03
+Adaptec ADPT 2.3900
+Adc Telecommunications  ADCT 449.51
+Addvantage Technologies Grp.  AEY NA
+Adobe Systems Incorporated  ADBE 12.84
+Adolor  ADLR NA
+Adtran  ADTN NA
+Advanced Analogic AATI 77.47
+Advanced Battery Technologies  ABAT NA
+Advanced Energy AEIS NA
+Advanta  ADVNB NA
+Advanta  ADVNA 2.2900
+Advocat  AVCA NA
+Aehr Test Systems AEHR 85.81
+Aep AEPI 0.4608
+Aerovironment  AVAV NA
+Aeterna Zentaris  AEZS 0.0270
+Affirmative Insurance Holdings  AFFM NA
+Affymax  AFFY NA
+Affymetrix AFFX 21.69
+Aftermarket ATAC NA
+Agfeed Industries  FEED 12.51
+Agilysys AGYS 26.25
+Air Methods  AIRM NA
+Air T  AIRT NA
+Air Transport Services Grp.  ATSG NA
+Airmedia Grp. Ads AMCN 110.73
+Airspan Networks AIRN NA
+Airvana  AIRV 0.0900
+Aixtron Aktiengesellschaft Ads AIXG 7.35
+Akamai AKAM NA
+Akeena Solar  AKNS 2.4000
+Akorn  AKRX NA
+Aktieselskabet Dampskibsselskabet TRMD 1.0000
+Aladdin Knowledge Systems Ltd ALDN 102.75
+Alaska Communications ALSK NA
+Albany Molecular Research  AMRI 7.90
+Aldila  ALDA 32.63
+Alexion Pharmaceuticals  ALXN 298.51
+Alexza ALXA 18.74
+Alfacell ACEL 115.28
+Alico ALCO NA
+Align Technology  ALGN NA
+Alkermes ALKS NA
+Allegiant Travel Company  ALGT NA
+Alliance Bankshares ABVA 3.3200
+Alliance Fiber Optic AFOP 10.43
+Alliance Financial  ALNC NA
+Alliance Holdings Gp L.p. AHGP 39.63
+Alliance Resource Partners L.p. ARLP NA
+Allied Healthcare AHPI NA
+Allied Healthcare AHCI 11.66
+Allied Motion AMOT NA
+Allion Healthcare  ALLI 8.84
+Allos Therapeutics  ALTH NA
+Allot Communications Ltd.  ALLT 150.44
+Alloy  ALOY 5.55
+Allscripts-misys Healthcare Solutions MDRX NA
+Almost Family AFAM 42.09
+Alnylam Pharmaceuticals  ALNY 36.00
+Alphatec Holdings  ATEC NA
+Altair Nanotechnologies Inc.  ALTI 30.55
+Altera ALTR 10.40
+Altra Holdings  AIMC 6.86
+Altus ALTU 3,205.03
+Alvarion Ltd.  ALVR 30.55
+Amag Pharmaceuticals  AMAG 10.40
+Amarin AMRN 6.86
+Amazon.com  AMZN 3,205.03
+Ambassadors EPAX NA
+Ambassadors AMIE NA
+Amcore Financial  AMFI NA
+Amedisys AMED 233.21
+Amerco  UHAL 334.58
+America First Tax Exempt Investors ATAX 4.2500
+America Movil S.a.b. De C.v.  AMOV 12.57
+America Service ASGR NA
+American Bancorp of New Jersey  ABNJ NA
+American Capital Agency  AGNC 13.73
+American Capital Strategies ACAS NA
+American Claims Evaluation  AMCE NA
+American Cmnty Bancshares in ACBA NA
+American Commercial Lines  ACLI NA
+American Dental Partners ADPI NA
+American Ecology  ECOL 36.57
+American Electric Technologies  AETI NA
+American Independence  AMIC 0.1000
+American International Industries AMIN NA
+American Italian Pasta Company  AIPC NA
+American Medical Alert AMAC NA
+American Medical Systems AMMD 23.15
+American National Bankshares AMNB 73.14
+American National Insurance ANAT NA
+American Pacific APFC NA
+American Physicians Capital ACAP 21.09
+American Physicians Service Grp AMPH 29.29
+American Public Education  APEI NA
+American Railcar ARII 9.99
+American River Bankshares  AMRB NA
+American Science and Engineering ASEI 16.94
+American Software  AMSWA 10.38
+American Superconductor  AMSC 7.19
+American Technology ATCO 86.07
+American Woodmark AMWD 96.93
+Americas Car-mart  CRMT NA
+Amerigon Incorporated  ARGN 24.42
+Ameris Bancorp  ABCB 64.10
+Amerisafe AMSF 2.9400
+Ameriserv Financial ASRV 28.01
+Ameriserv Financial Inc. - Ameriserv ASRVP NA
+Ameristar Casinos  ASCA NA
+Ameritrans Capital AMTC 0.0220
+Amerityre  AMTY 18.97
+Ames National  ATLO 241.47
+Amgen Inc.  AMGN NA
+Amicas AMCS 15.10
+Amicus Therapeutics  FOLD 13.72
+Amkor AMKR NA
