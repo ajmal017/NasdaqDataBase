@@ -84,24 +84,24 @@ while i<=2829:
     ctr+=1
 f.close()
 
-# i=2501
-# ctr=0
-# f=open("nasdaqindustry.txt","a")
-# while i<=2829:
-#     statement=symbol[i]+" "+industry[ctr]
-#     f.write(statement)
-#     f.write("\n")
-#     i+=1
-#     ctr+=1
-# f.close()
+i=2501
+ctr=0
+f=open("nasdaqindustry.txt","a")
+while i<=2829:
+    statement=symbol[i]+" "+industry[ctr]
+    f.write(statement)
+    f.write("\n")
+    i+=1
+    ctr+=1
+f.close()
 
-# i=2501
-# ctr=0
-# f=open("nasdaqfte.txt","a")
-# while i<=2829:
-#     statement=symbol[i]+" "+fte[ctr]
-#     f.write(statement)
-#     f.write("\n")
-#     i+=1
-#     ctr+=1
-# f.close()
+i=2501
+ctr=0
+f=open("nasdaqfte.txt","a")
+while i<=2829:
+    statement=symbol[i]+" "+fte[ctr]
+    f.write(statement)
+    f.write("\n")
+    i+=1
+    ctr+=1
+f.close()
